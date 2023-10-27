@@ -1,8 +1,8 @@
 export const AppConfig = {
-  site_name: 'Astro boilerplate',
+  site_name: 'Furtive Games',
   title: 'Astro boilerplate',
-  description: 'Boilerplate built with Astro using React and Tailwind CSS',
-  author: 'Emma',
+  description: 'Portfolio site for Tyler Funk/Furtive Games',
+  author: 'Tyler',
   locale_region: 'en-us',
   locale: 'en',
 };

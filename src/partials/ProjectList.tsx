@@ -16,13 +16,11 @@ const ProjectList = () => (
   >
     <div className="flex flex-col gap-6">
       <Project
-        name="Project 1"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-        bibendum. Nunc non posuere consectetur, justo erat semper enim, non
-        hendrerit dui odio id enim."
-        link="/"
+        name="RoboHunters"
+        description="Top-down 3D action shooter. Fight against swarms of rogue AI machines and survive as long as you can!"
+        link="/projects/robo-hunters/"
         img={{
-          src: '/assets/images/project-web-design.png',
+          src: '/assets/images/robo-hunters/main-capsule.png',
           alt: 'Project Web Design',
         }}
         category={
